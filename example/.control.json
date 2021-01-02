@@ -1,0 +1,26 @@
+{
+  "name":"My database 1",
+  "date_created":"01/02/2021 21:50",
+  "language":"en",
+  "structure":
+    [
+      1:
+        {
+          "type":"table",
+          "name":"person",
+          "key_value":""
+        },
+      2:
+        {
+          "type":"table",
+          "name":"income",
+          "key_value":""
+        },
+      3:
+        {
+          "type":"table",
+          "name":"products_bought",
+          "key_value":""
+        }
+    ]
+}
